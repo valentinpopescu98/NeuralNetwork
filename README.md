@@ -1,6 +1,5 @@
 # NeuralNetworkKeras
-Simple neural network developed in python using Keras.
-This is a project written in romanian language. Feel free to edit my code and create an english version.
+OCR application using neural networks developed in Python using Keras.
 
 
 To run this project follow the next steps:
