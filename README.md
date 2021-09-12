@@ -1,5 +1,5 @@
 # NeuralNetworkFromScratch
-Simple neural network developed in python from scratch, no ML libraries.
+OCR application using neural networks developed in Python from scratch, with no ML libraries.
 This is a project written in romanian language. Feel free to edit my code and create an english version.
 
 
